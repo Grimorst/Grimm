@@ -1,0 +1,20 @@
+:root {
+    --bg: #000;
+    --red: #fc0505;
+    -- shadow: 0 -2px -4px rgb(0, 0, 0 / 0, 7);
+}
+
+body {
+    font-size: 2rem;
+    font-family: 'Sixtyfour', 'Convergence';
+}
+
+.fian {
+    min-height: 100vh;
+    background-color: var(--bg);
+}
+
+.fian h1 {
+    font-family: 'Sixtyfour Convergence', 'cross origin';
+    font-size: '7rem';
+}
